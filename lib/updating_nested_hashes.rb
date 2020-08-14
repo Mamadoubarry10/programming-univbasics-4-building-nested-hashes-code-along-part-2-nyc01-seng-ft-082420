@@ -61,6 +61,8 @@ def add_characters
    # Code your solution here:
 
 
+prince = { name: "Prince Escalus" }
+apothecary = { name: "Apothecary" }
 
 
 
